@@ -1,0 +1,6 @@
+ • Docker network ls = list all the available docker networks
+
+
+ • Docker network create (new network name) = create a new network
+
+
