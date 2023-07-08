@@ -1,0 +1,4 @@
+ • Docker logs (container id/NAMES)
+
+
+ • Docker exec -it (container id/NAMES) /bin/bash = access the container terminal if it was detached (-d)
