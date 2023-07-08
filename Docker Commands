@@ -1,0 +1,22 @@
+	• Docker run = pulls image and starts container 
+	
+		○ Docker run -d 
+		○ -d = detached mode 
+	• 
+		○ Docker run -p6000:6379 (id / image name)
+		○ -p = port binding between Host and Container Ports
+		○ -p6000:6379 = 6000 is Host port number || 6379 is Container port number
+
+	• Docker stop (id) = stops  the container
+	• Docker start (id) = starts stopped container
+
+	• Docker pull = to download a image for the Docker Hub
+
+	• Docker ps = list running containers
+		○ Docker ps -a 
+		○ -a = lists running and stoppped container (History)
+	
+	• Docker images = shows all the images in my computer
+
+	• Docker run -d -p6001:6379 --name redis-older redis:4.0
+--name redis-older = naming a container
