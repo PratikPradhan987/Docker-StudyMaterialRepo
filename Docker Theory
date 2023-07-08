@@ -10,3 +10,15 @@ Docker provides a unified way to manage and distribute applications as container
 which makes it easier to develop, test, and deploy applications in different environments.
 
 
+What is docker containers 
+
+A Docker container is a standalone executable package that includes everything needed to run a piece of software.
+Including the code, runtime, system tools, libraries, and settings.
+
+Containers are isolated from each other and from the host system.
+Which allows multiple containers to run on the same host without affecting each other or the host. 
+
+This makes containers a lightweight and portable alternative to virtual machines, as they use fewer resources and are faster to start. 
+
+Docker provides a platform to create, manage, and distribute containers,
+making it easier to build, ship, and run applications in a variety of environments.
